@@ -3,6 +3,8 @@ vim-js-sql
 
 sql highlighting in your javascript in your vim
 
+Depends on: [vim-javascript](https://github.com/pangloss/vim-javascript)
+
 #### Pathogen
 
 ```
