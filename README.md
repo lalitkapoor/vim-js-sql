@@ -13,4 +13,4 @@ cd ~/.vim/bundle
 git clone https://github.com/lalitkapoor/vim-js-sql.git
 ```
 
-[![Click to view video](https://dl.dropboxusercontent.com/s/5biqx35isxfyexc/Screenshot%202014-04-27%2000.39.48.png?token_hash=AAFkqo1CS57K6GMlwhATjbTrrrnDLU_9OjuZ7L8kmfGd-g)](https://www.youtube.com/watch?v=x9F9_Lt0Iuw)
+[![Click to view video](https://www.dropbox.com/s/55obj6pmwtturgo/Screenshot%202014-04-27%2000.47.08.png?dl=1)](https://www.youtube.com/watch?v=x9F9_Lt0Iuw)
