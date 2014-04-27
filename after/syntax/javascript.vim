@@ -10,5 +10,8 @@ if exists('b:current_syntax')
 endif
 
 syn include @sqlSyntax syntax/sql.vim
-syn region sqlRegion start=+<sql>+ end=+</sql>+ keepend contains=@sqlSyntax
+syn region sqlRegion start=+<sql>+ end=+</sql>+ keepend extend contains=@sqlSyntax,jsInXML
 syn cluster jsExpression add=sqlRegion
+
+" From vim-jsx
+syn region jsInXML contained start=+{+ end=++ contains=jsBlock
