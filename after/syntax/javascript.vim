@@ -3,7 +3,6 @@
 "
 " Language: JS-SQL (JavaScript)
 " Maintainer: Lalit Kapoor <lalitkapoor@gmail.com>
-" Depends: pangloss/vim-javascript
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 if exists('b:current_syntax')
   let s:current_syntax=b:current_syntax
