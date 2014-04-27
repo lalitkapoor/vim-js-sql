@@ -11,3 +11,5 @@ Depends on: [vim-javascript](https://github.com/pangloss/vim-javascript)
 cd ~/.vim/bundle
 git clone https://github.com/lalitkapoor/vim-js-sql.git
 ```
+
+Inspired by: [vim-jsx](https://github.com/mxw/vim-jsx)
